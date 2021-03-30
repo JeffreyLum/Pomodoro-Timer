@@ -1,4 +1,4 @@
-# *Adapted from CS50 and utilized in my Mobile & Cloud Computing course at CSULA*
+# *Adapted from CS50 and utilized in my Mobile & Cloud Computing course at CSULA, a mobile app built entirely in React Native*
 # How this app works
 
 > While working, there will be a very bright colors being blasted in your face to keep you awake and working
