@@ -11,3 +11,7 @@ web-build/
 
 # macOS
 .DS_Store
+AppOther.js
+AppTest.js
+old.txt
+old2.txt
